@@ -1,0 +1,22 @@
+.speech { 
+    font-family:'Courier New', Courier, monospace; 
+    font-size: 20px;color:rgb(8, 8, 8)} 
+
+.direction { 
+    font-family: sans-serif; 
+    font-size: 15px;color:rgb(8, 8, 8);
+    background-color: aquamarine;
+} 
+.direction:hover{
+    background-color: rgb(37, 201, 138);
+    color:     rgb(212, 66, 217);
+    }
+.HEDDA{
+    color: rgb(244, 38, 120);
+}
+.MISS TESMAN{
+    color: rgb(220, 180, 163);
+}
+.GEORGE TESMAN{
+    color: rgb(234, 133, 50);
+}
