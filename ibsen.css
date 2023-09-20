@@ -53,3 +53,9 @@ table {
     border: 1px solid #ddd;
     text-align: left;
   }
+
+  ul.navbar-horizontal li{
+    float: left;
+    color: rgb(154, 4, 4);
+    
+  }
