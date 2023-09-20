@@ -25,9 +25,13 @@
     color: rgb(234, 134, 19);
     font-size:14px;
 }
+.HEDDA:hover{text-shadow:5px 5px 5px rgb(35, 230, 48);border: solid 2px rgb(230, 77, 12);}
+.MISSTESMAN:hover{text-shadow:5px 5px 5px rgb(29, 222, 42);border: solid 2px rgb(230, 77, 12);}
+.GEORGETESMAN:hover{text-shadow:5px 5px 5px rgb(86, 215, 17));border: solid 2px rgb(230, 77, 12);}
+
 table {
     border-collapse: collapse;
-    width: 100%;
+    width: 50%;
     margin-bottom: 20px;
   }
   
